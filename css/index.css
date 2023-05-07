@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap');
+
+.button1 {
+     
+    color: white; 
+    margin-left: 500px;
+    size-adjust: 400px;
+    background-color:rgb(8, 76, 235);
+  padding: 15px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  }
